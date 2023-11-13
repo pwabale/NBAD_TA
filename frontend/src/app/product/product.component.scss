@@ -1,0 +1,17 @@
+/* product.component.css */
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 400px;
+
+}
+.products{
+  display: inline-block;
+}
+/* app.component.css */
+.cart {
+  float: right;
+  border: 1px solid #ccc;
+  padding: 10px;
+}

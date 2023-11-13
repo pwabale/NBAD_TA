@@ -1,0 +1,27 @@
+[
+   
+        {
+            "id" : 1,
+            "productName" : "Banana",
+            "Price" : 30,
+            "Description": "Banana is very healthy"
+        },
+        {
+            "id" : 2,
+            "productName" : "Banana",
+            "Price" : 30,
+            "Description": "Banana is very healthy"
+        },
+        {
+            "id" : 3,
+            "productName" : "Banana",
+            "Price" : 30,
+            "Description": "Banana is very healthy"
+        },
+        {
+            "id" : 4,
+            "productName" : "Banana",
+            "Price" : 30,
+            "Description": "Banana is very healthy"
+        }
+]
